@@ -7,4 +7,4 @@
 > CVPR 2023
 
 ## Architecture
-![image](https://github.com/w4ngzI/TBP-Former/blob/main/figs/fig_overview.png)
+![image](https://github.com/MediaBrain-SJTU/TBP-Former/blob/main/figs/fig_overview.png)
