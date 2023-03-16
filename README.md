@@ -10,4 +10,4 @@
 ![image](https://github.com/MediaBrain-SJTU/TBP-Former/blob/main/figs/fig_overview.png)
 
 ## Visualization
-[![Watch the video](https://img.youtube.com/vi/watch?v=RlCmbwYnAO4/maxresdefault.jpg)](https://www.youtube.com/watch?v=RlCmbwYnAO4)
+https://www.youtube.com/watch?v=RlCmbwYnAO4
