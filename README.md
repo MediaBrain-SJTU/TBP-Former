@@ -9,5 +9,5 @@
 ## Architecture
 ![image](https://github.com/MediaBrain-SJTU/TBP-Former/blob/main/figs/fig_overview.png)
 
-##Visualization
+## Visualization
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=RlCmbwYnAO4)
