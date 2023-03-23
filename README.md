@@ -10,6 +10,7 @@
 ![image](https://github.com/MediaBrain-SJTU/TBP-Former/blob/main/figs/fig_overview.png)
 
 ## Visualization
-https://user-images.githubusercontent.com/69421914/225604443-434de072-9271-4903-a0f0-6105deda31c2.mp4
 
-[More visualization results](https://www.youtube.com/watch?v=RlCmbwYnAO4)
+https://user-images.githubusercontent.com/69421914/227251750-ddc1cf91-b323-49fa-8556-afcc268cf6fb.mp4
+
+[More visualization results](https://youtu.be/58qrCYN5DtM)
